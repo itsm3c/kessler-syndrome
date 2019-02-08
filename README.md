@@ -6,8 +6,7 @@ Kessler Syndrome Simulation
 -------------
 
 >  This is a simulation program of Kessler Syndrome.
-...
-Modules needed: Tkinter.
-...
-Author:  Fedor Sedov.
-# kessler_syndrome
+
+>Modules needed: Tkinter.
+
+>Author:  Fedor Sedov.
